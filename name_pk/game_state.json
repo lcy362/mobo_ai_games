@@ -1,0 +1,39 @@
+{
+  "champion": {
+    "round": 1,
+    "score": 71,
+    "date": "2026-05-20",
+    "answers": {
+      "1": {"name": "领军能力", "figure": "牛皋", "score": 7},
+      "2": {"name": "治理能力", "figure": "江充（英雄志）", "score": 8},
+      "3": {"name": "个人武力", "figure": "秦琼", "score": 9},
+      "4": {"name": "谋略智慧", "figure": "孙膑", "score": 9},
+      "5": {"name": "人情世故", "figure": "潘金莲", "score": 4},
+      "6": {"name": "实务才能", "figure": "滕子京", "score": 5},
+      "7": {"name": "人文造诣", "figure": "佟大为", "score": 3},
+      "8": {"name": "个人魅力", "figure": "文徵明", "score": 6},
+      "9": {"name": "科技贡献", "figure": "轩辕（黄帝）", "score": 10},
+      "10": {"name": "后世影响", "figure": "孔丘（孔子）", "score": 10}
+    }
+  },
+  "champion_history": [
+    {
+      "round": 2,
+      "score": 75,
+      "date": "2026-05-20",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "李靖", "score": 10},
+        "2": {"name": "治国能力", "figure": "赵普", "score": 7},
+        "3": {"name": "用人之道", "figure": "宋江", "score": 7},
+        "4": {"name": "谋略智慧", "figure": "杨肃观", "score": 8},
+        "5": {"name": "外交纵横", "figure": "吴起", "score": 5},
+        "6": {"name": "经世济民", "figure": "郭威", "score": 7},
+        "7": {"name": "人文造艺", "figure": "曹操", "score": 8},
+        "8": {"name": "个人魅力", "figure": "朱元璋", "score": 9},
+        "9": {"name": "科技贡献", "figure": "周恩来", "score": 4},
+        "10": {"name": "历史影响", "figure": "张道陵", "score": 10}
+      }
+    }
+  ],
+  "dimension_full_score_usage": {}
+}
