@@ -1,21 +1,40 @@
 {
-  "champion": {
-    "round": 1,
-    "score": 71,
-    "date": "2026-05-20",
-    "answers": {
-      "1": {"name": "领军能力", "figure": "牛皋", "score": 7},
-      "2": {"name": "治理能力", "figure": "江充（英雄志）", "score": 8},
-      "3": {"name": "个人武力", "figure": "秦琼", "score": 9},
-      "4": {"name": "谋略智慧", "figure": "孙膑", "score": 9},
-      "5": {"name": "人情世故", "figure": "潘金莲", "score": 4},
-      "6": {"name": "实务才能", "figure": "滕子京", "score": 5},
-      "7": {"name": "人文造诣", "figure": "佟大为", "score": 3},
-      "8": {"name": "个人魅力", "figure": "文徵明", "score": 6},
-      "9": {"name": "科技贡献", "figure": "轩辕（黄帝）", "score": 10},
-      "10": {"name": "后世影响", "figure": "孔丘（孔子）", "score": 10}
+  "champions": [
+    {
+      "round": 3,
+      "score": 83,
+      "date": "2026-05-20",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "李靖", "score": 9},
+        "2": {"name": "治理能力", "figure": "周恩来", "score": 9},
+        "3": {"name": "个人武力", "figure": "黄天化", "score": 10},
+        "4": {"name": "谋略智慧", "figure": "吴起", "score": 7},
+        "5": {"name": "人情世故", "figure": "林仙儿", "score": 10},
+        "6": {"name": "实务才能", "figure": "宋江", "score": 6},
+        "7": {"name": "人文造诣", "figure": "张道陵", "score": 8},
+        "8": {"name": "个人魅力", "figure": "佘太君", "score": 7},
+        "9": {"name": "科技贡献", "figure": "丁肇中", "score": 8},
+        "10": {"name": "后世影响", "figure": "孙武", "score": 9}
+      }
+    },
+    {
+      "round": 1,
+      "score": 71,
+      "date": "2026-05-20",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "牛皋", "score": 7},
+        "2": {"name": "治理能力", "figure": "江充（英雄志）", "score": 8},
+        "3": {"name": "个人武力", "figure": "秦琼", "score": 9},
+        "4": {"name": "谋略智慧", "figure": "孙膑", "score": 9},
+        "5": {"name": "人情世故", "figure": "潘金莲", "score": 4},
+        "6": {"name": "实务才能", "figure": "滕子京", "score": 5},
+        "7": {"name": "人文造诣", "figure": "佟大为", "score": 3},
+        "8": {"name": "个人魅力", "figure": "文徵明", "score": 6},
+        "9": {"name": "科技贡献", "figure": "轩辕（黄帝）", "score": 10},
+        "10": {"name": "后世影响", "figure": "孔丘（孔子）", "score": 10}
+      }
     }
-  },
+  ],
   "champion_history": [
     {
       "round": 2,
@@ -32,6 +51,74 @@
         "8": {"name": "个人魅力", "figure": "朱元璋", "score": 9},
         "9": {"name": "科技贡献", "figure": "周恩来", "score": 4},
         "10": {"name": "历史影响", "figure": "张道陵", "score": 10}
+      }
+    },
+    {
+      "round": 4,
+      "score": 61,
+      "date": "2026-05-21",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "姜子牙", "score": 8},
+        "2": {"name": "治理能力", "figure": "徐阶", "score": 7},
+        "3": {"name": "个人武力", "figure": "卓凌昭", "score": 9},
+        "4": {"name": "谋略智慧", "figure": "雷军", "score": 4},
+        "5": {"name": "人情世故", "figure": "戴笠", "score": 8},
+        "6": {"name": "实务才能", "figure": "黄飞鸿", "score": 2},
+        "7": {"name": "人文造诣", "figure": "唐寅", "score": 7},
+        "8": {"name": "个人魅力", "figure": "杨坚", "score": 7},
+        "9": {"name": "科技贡献", "figure": "何广智", "score": 0},
+        "10": {"name": "后世影响", "figure": "韩非", "score": 9}
+      }
+    },
+    {
+      "round": 5,
+      "score": 72,
+      "date": "2026-05-21",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "卫青", "score": 8},
+        "2": {"name": "治理能力", "figure": "杨坚", "score": 8},
+        "3": {"name": "个人武力", "figure": "李元霸", "score": 11},
+        "4": {"name": "谋略智慧", "figure": "程昱", "score": 7},
+        "5": {"name": "人情世故", "figure": "吴仪", "score": 7},
+        "6": {"name": "实务才能", "figure": "王猛", "score": 9},
+        "7": {"name": "人文造诣", "figure": "费玉清", "score": 3},
+        "8": {"name": "个人魅力", "figure": "孙笑川", "score": 5},
+        "9": {"name": "科技贡献", "figure": "诸葛亮", "score": 7},
+        "10": {"name": "后世影响", "figure": "孟尝君", "score": 7}
+      }
+    },
+    {
+      "round": 6,
+      "score": 62,
+      "date": "2026-05-21",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "王翦", "score": 8},
+        "2": {"name": "治理能力", "figure": "廖仲恺", "score": 6},
+        "3": {"name": "个人武力", "figure": "杨林", "score": 7},
+        "4": {"name": "谋略智慧", "figure": "朱镕基", "score": 6},
+        "5": {"name": "人情世故", "figure": "华国锋", "score": 5},
+        "6": {"name": "实务才能", "figure": "洪秀全", "score": 4},
+        "7": {"name": "人文造诣", "figure": "管仲", "score": 5},
+        "8": {"name": "个人魅力", "figure": "城北徐公", "score": 6},
+        "9": {"name": "科技贡献", "figure": "赵武灵王", "score": 4},
+        "10": {"name": "后世影响", "figure": "尤达大师", "score": 11}
+      }
+    },
+    {
+      "round": 7,
+      "score": 77,
+      "date": "2026-05-21",
+      "answers": {
+        "1": {"name": "领军能力", "figure": "卢俊义", "score": 6},
+        "2": {"name": "治理能力", "figure": "钱镠", "score": 8},
+        "3": {"name": "个人武力", "figure": "夏侯惇", "score": 8},
+        "4": {"name": "谋略智慧", "figure": "钟会", "score": 7},
+        "5": {"name": "人情世故", "figure": "孔祥熙", "score": 7},
+        "6": {"name": "实务才能", "figure": "毛泽东", "score": 9},
+        "7": {"name": "人文造诣", "figure": "辛弃疾", "score": 8},
+        "8": {"name": "个人魅力", "figure": "轩辕黄帝", "score": 9},
+        "9": {"name": "科技贡献", "figure": "侯德榜", "score": 9},
+        "10": {"name": "后世影响", "figure": "史强", "score": 6}
       }
     }
   ],
